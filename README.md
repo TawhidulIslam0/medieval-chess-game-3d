@@ -272,4 +272,3 @@ All searches run inside `engine.worker.ts`. `aiClient.ts` cancels a stale search
 > ⚔️ **Muster your army. Choose your battlefield. Make your move.**
 >
 > **King's Gambit** — where chess becomes war.
-GitHub Pages deployment test
